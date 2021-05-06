@@ -6,18 +6,18 @@
 
 ## About me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif?raw=true" width="24px">
 </div>
-## I am a student, currently studying at GHRIET. From very early on in my life, I fell in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no limit of knowledge is enough **. 🧠
+# I am a student, currently studying at GHRIET. From very early on in my life, I fell in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no limit of knowledge is enough **. 🧠
 
 <img align="right" width=300px alt="Intro" src="https://media.giphy.com/media/JTnmWFfrd77RctgNQl/giphy.gif" />
 
 ## What I know :computer:
 -	- Python  <img src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" width="24px">
 	- C++	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" width="24px">
-	- HTML  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="24px">
-	- React <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff" width="24px">
-	- CSS   <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" width="24px">
-	- Javascript  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" width="24px">
-	- Git <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" width="24px">
+	- HTML  <img src = "https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html&logoColor=white" width="30px">
+	- React <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff" width="30px">
+	- CSS   <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" width="30px">
+	- Javascript  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" width="30px">
+	- Git <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" width="30px">
 
 ## What I want to do next :thinking: 
 - Contribute to Human Development
@@ -25,13 +25,11 @@
 - Be a Full-Stack developer :mortar_board:
 - Unlock the secret to the universe :rofl:
 
-## Contact me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif?raw=true" width="24px">
+## Contact me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif?raw=true" width="35px">
 <br>
 <a href="https://www.linkedin.com/in/saurav-pandey-81273b1a7">
   <img align="center" alt="Astha @Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
-	
-		
 </a>
   <a href="mailto:"sauravpandey1012@gmail.com">
   <img align="center" alt="Astha @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />

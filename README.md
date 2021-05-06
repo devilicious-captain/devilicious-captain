@@ -52,8 +52,13 @@ I am a student, currently studying at GHRIET. From very early on in my life, I f
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devilicious-captain&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 </p>
 
+<hr>
+<i><b>Profile Visitor Count...</b></i><br>
+<img src="https://profile-counter.glitch.me/ast1012/count.svg" />
 
-Thanks for stopping by! 😁
+## Thanks for stopping by! 😁
+
+
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif?raw=true" /><br>
 
 

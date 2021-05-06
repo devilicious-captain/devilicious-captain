@@ -1,4 +1,4 @@
-# Hey, Floks! Welcome to my github! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hey, Floks! Welcome to my github! <<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <div align="center">
 	<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true">
@@ -54,7 +54,7 @@ I am a student, currently studying at GHRIET. From very early on in my life, I f
 
 <hr>
 <i><b>Profile Visitor Count...</b></i><br>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif?raw=true" width="50px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif?raw=true" width="70px">
 
 <img src="https://profile-counter.glitch.me/ast1012/count.svg" />
 

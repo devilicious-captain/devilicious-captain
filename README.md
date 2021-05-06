@@ -1,18 +1,20 @@
 # Hey, Floks! Welcome to my github! <<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
+<p align="center"><img width=100% src="https://github.com/devilicious-captain/devilicious-captain/raw/master/readme.gif"></p>
+
 <div align="center">
 	<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true">
 </div>
 
 ## About me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif?raw=true" width="24px">
 </div>
-I am a student, currently studying at GHRIET. From very early on in my life, I fell in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no limit of knowledge is enough **. 🧠
+## I am a student, currently studying at GHRIET. From very early on in my life, I fell in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no limit of knowledge is enough **. 🧠
 
 <img align="right" width=300px alt="Intro" src="https://media.giphy.com/media/JTnmWFfrd77RctgNQl/giphy.gif" />
 
 ## What I know :computer:
 - **Competitive Programming**
-	- Python ❤️
+	- Python 
 	- C++
 	- Java Script
 - **Frontend Development**
@@ -27,7 +29,7 @@ I am a student, currently studying at GHRIET. From very early on in my life, I f
 - At least delve into AI and ML.
 - Unlock the secret to the universe :rofl:
 
-## Contact me 
+## Contact me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif?raw=true" width="24px">
 <br>
 <a href="https://www.linkedin.com/in/saurav-pandey-81273b1a7">
   <img align="center" alt="Astha @Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

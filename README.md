@@ -11,7 +11,7 @@
 <img align="right" width=300px alt="Intro" src="https://media.giphy.com/media/JTnmWFfrd77RctgNQl/giphy.gif" />
 
 ## What I know :computer:
--	- Python  <img src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" width="24px">
+-	- Python  <img src = "https://www.vectorlogo.zone/logos/python/python-official.svg" width="24px">
 	- C++	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" width="24px">
 	- HTML  <img src = "https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html&logoColor=white" width="30px">
 	- React <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff" width="30px">
@@ -27,21 +27,21 @@
 
 ## Contact me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif?raw=true" width="35px">
 <br>
+<pre class="tab">
 <a href="https://www.linkedin.com/in/saurav-pandey-81273b1a7">
-  <img align="center" alt="Astha @Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-
+  <img align="center" alt="Saurav @Linkedin" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
   <a href="mailto:"sauravpandey1012@gmail.com">
-  <img align="center" alt="Astha @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="center" alt="Saurav @Mail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
 <a href="https://www.hackerrank.com/sauravpandey1012">
-  <img align="center" alt="Astha @Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="center" alt="Saurav @Hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <a href="https://www.codechef.com/users/astha_1306">
-  <img align="center" alt="Astha @CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  <img align="center" alt="Saurav @CodeChef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
-
+</pre>
 
 ### Interesting stats
 
@@ -63,4 +63,4 @@
 	<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif?raw=true">
 </div>
 
-⭐️ From [Saurav](https://github.com/devilicious-captain)
+⭐️ From [Devilicious Captain](https://github.com/devilicious-captain)

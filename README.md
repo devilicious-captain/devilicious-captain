@@ -6,7 +6,7 @@
 
 ## About me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif?raw=true" width="24px">
 </div>
-# I am a student, currently studying at GHRIET. From very early on in my life, I fell in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no limit of knowledge is enough **. 🧠
+I am a student, currently studying at GHRIET. From very early on in my life, I fell in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no limit of knowledge is enough**. 🧠
 
 <img align="right" width=300px alt="Intro" src="https://media.giphy.com/media/JTnmWFfrd77RctgNQl/giphy.gif" />
 
@@ -27,22 +27,23 @@
 
 ## Contact me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif?raw=true" width="35px">
 <br>
-<pre class="tab">
 <a href="https://www.linkedin.com/in/saurav-pandey-81273b1a7">
   <img align="center" alt="Saurav @Linkedin" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
-  <a href="mailto:"sauravpandey1012@gmail.com">
+&nbsp;
+<a href="mailto:sauravpandey1012@gmail.com">
   <img align="center" alt="Saurav @Mail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
+&nbsp;
 <a href="https://www.hackerrank.com/sauravpandey1012">
   <img align="center" alt="Saurav @Hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+&nbsp;
 <a href="https://www.codechef.com/users/astha_1306">
   <img align="center" alt="Saurav @CodeChef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
-
-</pre>
-
+	
+	
 ### Interesting stats
 
 <p align="center">

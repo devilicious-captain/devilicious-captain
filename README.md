@@ -1,7 +1,5 @@
 # Hey, Floks! Welcome to my github! <<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<p align="center"><img width=100% src="https://github.com/devilicious-captain/devilicious-captain/raw/master/readme.gif"></p>
-
 <div align="center">
 	<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true">
 </div>
@@ -13,26 +11,27 @@
 <img align="right" width=300px alt="Intro" src="https://media.giphy.com/media/JTnmWFfrd77RctgNQl/giphy.gif" />
 
 ## What I know :computer:
-- **Competitive Programming**
-	- Python 
-	- C++
-	- Java Script
-- **Frontend Development**
-	- HTML  :white_check_mark:
-	- React :electron:
-	- CSS
-	- Javascript
+-	- Python  <img src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" width="24px">
+	- C++	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" width="24px">
+	- HTML  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="24px">
+	- React <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff" width="24px">
+	- CSS   <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" width="24px">
+	- Javascript  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" width="24px">
+	- Git <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" width="24px">
 
 ## What I want to do next :thinking: 
+- Contribute to Human Development
 - Backend Development 
 - Be a Full-Stack developer :mortar_board:
-- At least delve into AI and ML.
 - Unlock the secret to the universe :rofl:
 
 ## Contact me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif?raw=true" width="24px">
 <br>
 <a href="https://www.linkedin.com/in/saurav-pandey-81273b1a7">
   <img align="center" alt="Astha @Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+	
+		
 </a>
   <a href="mailto:"sauravpandey1012@gmail.com">
   <img align="center" alt="Astha @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
@@ -65,6 +64,5 @@
 <div align="center">
 	<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif?raw=true">
 </div>
-
 
 ⭐️ From [Saurav](https://github.com/devilicious-captain)
